@@ -1,6 +1,6 @@
 {
-  "name": "react",
-  "version": "1.0.0",
+  "name": "test-light-modal",
+  "version": "1.0.1",
   "description": "React example starter project",
   "keywords": [
     "react",
@@ -28,5 +28,15 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kangyeongmin/test-modal.git"
+  },
+  "author": "react",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kangyeongmin/test-modal/issues"
+  },
+  "homepage": "https://github.com/kangyeongmin/test-modal#readme"
 }
